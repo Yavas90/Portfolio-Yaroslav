@@ -2,6 +2,9 @@
 
 ## Я начинающий QA Engineer
 
+## My CV
+[![Link to my CV](https://img.shields.io/badge/-Link_to_my_CV-696969??style=for-the-badge&logo=)](https://drive.google.com/file/d/1WBbHJz_3-KFS5habU8bz2MVi-Ywevw6A/view?usp=share_link)
+
 ### Languages and Tools
 ![Postman](https://img.shields.io/badge/-Postman-696969??style=for-the-badge&logo=Postman)
 ![Jira](https://img.shields.io/badge/-Jira-696969??style=for-the-badge&logo=Jira)
