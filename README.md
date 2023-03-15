@@ -11,5 +11,8 @@
 ![Cygwin Terminal](https://img.shields.io/badge/-Cygwin_Terminal-696969??style=for-the-badge&logo=Cygwin)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-696969??style=for-the-badge&logo=DBeaver)
 ![Charles](https://img.shields.io/badge/-Charles-696969??style=for-the-badge&logo=Charles)
+![JavaScript](https://img.shields.io/badge/-JavaScript_basic-696969??style=for-the-badge&logo=JavaScript)
+![Java](https://img.shields.io/badge/-Java_basic-696969??style=for-the-badge&logo=Java)
 
-Follow me
+### Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-696969??style=for-the-badge&logo=Telegram)](https://t.me/YaroslavVasiliev1990)
