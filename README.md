@@ -23,7 +23,7 @@
 
 ### Testing Documentation
 
-- [Check lists]()
+- [Check lists](https://docs.google.com/spreadsheets/d/1HxRsq4OPlymBI4rPjtXjc9m5X66bSLtmNNAbgqieRfE/edit?usp=sharing)
 - [Test Cases]()
 - [Bug Reports]()
 - [SQL Queries]()
