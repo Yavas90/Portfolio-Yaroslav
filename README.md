@@ -24,7 +24,7 @@
 ### Testing Documentation
 
 - [Check lists](https://docs.google.com/spreadsheets/d/1HxRsq4OPlymBI4rPjtXjc9m5X66bSLtmNNAbgqieRfE/edit?usp=sharing)
-- [Test Cases]()
+- [Test Cases](https://docs.google.com/spreadsheets/d/1oo1n2r8Z9VgYOwJDF6nCeVCDCOXdXmY9iK6ETIYSQQM/edit?usp=share_link)
 - [Bug Reports]()
 - [SQL Queries]()
 - [Postman Collections]()
@@ -33,4 +33,3 @@
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-696969??style=for-the-badge&logo=Telegram)](https://t.me/YaroslavVasiliev1990)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-696969??style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/yaroslav-vasiliev/)
-[![Mail](https://img.shields.io/badge/-Mail-696969??style=for-the-badge&logo=Mail.ru)](yavas.yavas.yavas@mail.ru)
