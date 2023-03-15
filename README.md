@@ -21,6 +21,14 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript_basic-696969??style=for-the-badge&logo=JavaScript)
 ![Java](https://img.shields.io/badge/-Java_basic-696969??style=for-the-badge&logo=Java)
 
+### Testing Documentation
+[![Check lists](https://img.shields.io/badge/-Check_lists-696969??style=for-the-badge)]()
+[![Test Cases](https://img.shields.io/badge/-Test_Cases-696969??style=for-the-badge)]()
+[![Bug Reports](https://img.shields.io/badge/-Bug_Reports-696969??style=for-the-badge)]()
+[![SQL Queries](https://img.shields.io/badge/-SQL_Queries-696969??style=for-the-badge)]()
+[![Postman Collections](https://img.shields.io/badge/-Postman_Collections-696969??style=for-the-badge)]()
+
+
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-696969??style=for-the-badge&logo=Telegram)](https://t.me/YaroslavVasiliev1990)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-696969??style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/yaroslav-vasiliev/)
