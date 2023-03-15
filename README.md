@@ -16,3 +16,4 @@
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-696969??style=for-the-badge&logo=Telegram)](https://t.me/YaroslavVasiliev1990)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-696969??style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/yaroslav-vasiliev/)
