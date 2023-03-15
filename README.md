@@ -3,7 +3,7 @@
 ## I'm a QA Engineer.
 
 ## My CV
-[![Link to my CV](https://img.shields.io/badge/-Link_to_my_CV-696969??style=for-the-badge&logo=)](https://drive.google.com/file/d/1WBbHJz_3-KFS5habU8bz2MVi-Ywevw6A/view?usp=share_link)
+[![Link to my CV](https://img.shields.io/badge/-Link_to_my_CV-696969??style=for-the-badge&logo=)](https://drive.google.com/file/d/1yt5y7RXeK7quA5CbIjw1tjrLu0Bw09N6/view?usp=sharing)
 
 ### Languages and Tools
 ![Postman](https://img.shields.io/badge/-Postman-696969??style=for-the-badge&logo=Postman)
@@ -25,7 +25,7 @@
 
 - [Check lists](https://docs.google.com/spreadsheets/d/1HxRsq4OPlymBI4rPjtXjc9m5X66bSLtmNNAbgqieRfE/edit?usp=sharing)
 - [Test Cases](https://docs.google.com/spreadsheets/d/1oo1n2r8Z9VgYOwJDF6nCeVCDCOXdXmY9iK6ETIYSQQM/edit?usp=share_link)
-- [Bug Reports]()
+- [Bug Reports](https://docs.google.com/drawings/d/1V2IsywUsDYQ8ESm3DHcpsAzDhXpkn6Q1rnOg5Nabouw/edit?usp=share_link)
 - [SQL Queries]()
 - [Postman Collections]()
 
