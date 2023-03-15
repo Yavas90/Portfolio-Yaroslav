@@ -4,5 +4,12 @@
 
 ### Languages and Tools
 ![Postman](https://img.shields.io/badge/-Postman-696969??style=for-the-badge&logo=Postman)
+![Jira](https://img.shields.io/badge/-Jira-696969??style=for-the-badge&logo=Jira)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-696969??style=for-the-badge&logo=AndroidStudio)
+![SQL](https://img.shields.io/badge/-SQL-696969??style=for-the-badge&logo=SQL)
+![IDEA](https://img.shields.io/badge/-IDEA-696969??style=for-the-badge&logo=IntellijIDEA)
+![Cygwin Terminal](https://img.shields.io/badge/-Cygwin_Terminal-696969??style=for-the-badge&logo=Cygwin)
+![DBeaver](https://img.shields.io/badge/-DBeaver-696969??style=for-the-badge&logo=DBeaver)
+![Charles](https://img.shields.io/badge/-Charles-696969??style=for-the-badge&logo=Charles)
 
 Follow me
