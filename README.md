@@ -26,7 +26,7 @@
 - [Check lists](https://docs.google.com/spreadsheets/d/1HxRsq4OPlymBI4rPjtXjc9m5X66bSLtmNNAbgqieRfE/edit?usp=sharing)
 - [Test Cases](https://docs.google.com/spreadsheets/d/1oo1n2r8Z9VgYOwJDF6nCeVCDCOXdXmY9iK6ETIYSQQM/edit?usp=share_link)
 - [Bug Reports](https://docs.google.com/drawings/d/1V2IsywUsDYQ8ESm3DHcpsAzDhXpkn6Q1rnOg5Nabouw/edit?usp=share_link)
-- [SQL Queries]()
+- [SQL Queries](https://docs.google.com/spreadsheets/d/1qoGu1gPGrDjfK-oV8TAaDLPCHw3hMvaX9ct0EsxxQGQ/edit?usp=share_link)
 - [Postman Collections]()
 
 
