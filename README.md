@@ -5,6 +5,9 @@
 ## My CV
 [![Link to my CV](https://img.shields.io/badge/-Link_to_my_CV-696969??style=for-the-badge&logo=)](https://drive.google.com/file/d/1yt5y7RXeK7quA5CbIjw1tjrLu0Bw09N6/view?usp=sharing)
 
+## My Cover letter
+[![Link to my Cover Letter](https://img.shields.io/badge/-Link_to_my_Cover_Letter-696969??style=for-the-badge&logo=)](https://docs.google.com/document/d/1w5r-_y5g90evO3EsSAHHV2AaV9BxZ9Cg/edit?usp=share_link&ouid=106937509522636525090&rtpof=true&sd=true)
+
 ### Languages and Tools
 ![Postman](https://img.shields.io/badge/-Postman-696969??style=for-the-badge&logo=Postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-696969??style=for-the-badge&logo=Swagger)
